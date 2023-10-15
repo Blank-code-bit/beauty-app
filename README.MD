@@ -1,6 +1,8 @@
 > BeautyBlend : Your ultimate Beauty Hub
 > ![Thumbnail Of the project](./snap.png)
 
+# Link to screenshots : https://drive.google.com/drive/folders/1etGPGU9IqW2FdBynz3kjguLECOBFr5oV?usp=drive_link
+
 
 > Follow us for more projects like this [Check on our website](https://codewithvetri.web.app)
 
