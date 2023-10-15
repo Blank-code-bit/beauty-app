@@ -1,6 +1,6 @@
 > BeautyBlend : Your ultimate Beauty Hub
 > ![Thumbnail Of the project](./snap.png)
-> ![Screenshots](../screenshot)
+
 
 > Follow us for more projects like this [Check on our website](https://codewithvetri.web.app)
 
